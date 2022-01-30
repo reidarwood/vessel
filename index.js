@@ -6,7 +6,7 @@ let map;
 
 function initMap() {
   const mapOptions = {
-    zoom: 8,
+    zoom: 12,
     center: { lat: 41.8239, lng: -71.4128 },
   };
 
