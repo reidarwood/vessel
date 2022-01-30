@@ -12,6 +12,11 @@ The points given to users can either be withdrawn for money or used to buy vesse
 
 # The App
 
+The goal of the app is to give our users the ability to find nearby dropoff locations and to manage their in-app points. With our Google Maps integration, users will be able to see on a map the nearby vessels along with the points per pound of compost that they would receive. Users will be able to collect in app points for their deposits and 
+//talk about database
+//talk about web stack
+We designed our web app usign flask.
+
 # Business Model
 
 Vessel will use initial capital to aquire recylcled shipping containers for each compost hotspot. Modifications to the vessels will consist of fencing to section the container into thirds as well as a deposit door equipped with a scale to messure the weight of the compost as well as a scanner to give the user points. Each hotspot will have a contracted manager that will tend to the compost piles and handle the sale of humus.
