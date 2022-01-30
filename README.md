@@ -14,6 +14,10 @@ The points given to users can either be withdrawn for money or used to buy vesse
 
 # Business Model
 
+Vessel will use initial capital to aquire recylcled shipping containers for each compost hotspot. Modifications to the vessels will consist of fencing to section the container into thirds as well as a deposit door equipped with a scale to messure the weight of the compost as well as a scanner to give the user points. Each hotspot will have a contracted manager that will tend to the compost piles and handle the sale of humus.
+
+Compost would be sold to local farmers, gardeners, or anyone with a need for organic compost. 
+
 # Acknowledgments
 
 Vessel was made by Reid Arwood, Andrew Boden, JR Byers, and Ben Hayes. 
