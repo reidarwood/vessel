@@ -4,14 +4,27 @@ DROP TABLE IF EXISTS post;
 CREATE TABLE user (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   username TEXT UNIQUE NOT NULL,
-  password TEXT NOT NULL
+  password TEXT NOT NULL,
+  credits INTEGER
 );
 
-CREATE TABLE post (
+CREATE TABLE location (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
-  author_id INTEGER NOT NULL,
-  created TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  title TEXT NOT NULL,
-  body TEXT NOT NULL,
-  FOREIGN KEY (author_id) REFERENCES user (id)
-);
+  latitude TEXT,
+  longitude TEXT
+)
+
+CREATE TABLE vessel (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  FOREIGN KEY (manager) REFERENCES user (id),
+  FOREIGN KEY (box1) REFERENCES box (id),
+  FOREIGN KEY (box2) REFERENCES box (id)
+)
+
+CREATE TABLE box (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  weight INTEGER,
+  temp INTEGER,
+  status INTEGER,
+  closed_on DATETIME
+)
