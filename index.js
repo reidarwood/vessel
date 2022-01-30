@@ -11,6 +11,7 @@ function initMap() {
   };
 
   map = new google.maps.Map(document.getElementById("map"), mapOptions);
+  navigator.geolocation.getCurrentPosition(showPosition);
 
   const marker = new google.maps.Marker({
     // The below line is equivalent to writing:
