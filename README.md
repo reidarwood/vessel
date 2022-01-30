@@ -16,7 +16,7 @@ The points given to users can either be withdrawn for money or used to buy vesse
 
 Vessel will use initial capital to aquire recylcled shipping containers for each compost hotspot. Modifications to the vessels will consist of fencing to section the container into thirds as well as a deposit door equipped with a scale to messure the weight of the compost as well as a scanner to give the user points. Each hotspot will have a contracted manager that will tend to the compost piles and handle the sale of humus.
 
-Compost would be sold to local farmers, gardeners, or anyone with a need for organic compost. 
+Compost would be sold to local farmers, gardeners, or anyone with a need for organic compost. Plenty of compost would also be available for donation to schools and community gardens to promote the practice of sustainable agriculture.
 
 # Acknowledgments
 
