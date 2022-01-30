@@ -2,9 +2,9 @@
 
 # Overview
 
-The rising emissions of greenhouse gasses has driven earth to an uncofortable state of climate change. Our new app vessel aims to use the power of composting to reduce greeenhouse gasses and put carbon back into the ground. About one forth of American waste is organic material that can be composted yet only eight percent of people use compost. Compost is the key to sustainable agriculture due to its properties with water retention, waste reduction, and soil health.
+The rising emissions of greenhouse gasses has driven earth to an uncofortable state of climate change. Our new app *vessel* aims to use the power of composting to reduce greeenhouse gasses and put carbon back into the ground. About one forth of American waste is organic material that can be composted yet only eight percent of people use compost. Compost is the key to sustainable agriculture due to its properties with water retention, waste reduction, and soil health.
 
-Many lack the resources and 
+Many lack the resources to compost their scraps, setting up a personal pile takes time and effort and few cities have municipal compost collection. With the vessel app, users will be able to effortlessly make money from desposing their scraps responsibly. 
 
 The landing page gives users the ability to drop their compost at one of vessel's drop-off locations. Each of the company's drop-off locations will consist of a recycled shipping container split into three different compartments for different stages in the composting process. When the user deposits their waste, an automated system will weight the scraps and then add it to the compost pile. The vessel will then scan an in-app QR code so the user can be reimbured with points.
 
