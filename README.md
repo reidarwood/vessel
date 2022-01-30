@@ -9,7 +9,6 @@ Many lack the resources to compost their scraps, setting up a personal pile take
 The landing page gives users the ability to drop their compost at one of vessel's drop-off locations. Each of the company's drop-off locations will consist of a recycled shipping container split into three different compartments for different stages in the composting process. When the user deposits their waste, an automated system will weight the scraps and then add it to the compost pile. The vessel will then scan an in-app QR code so the user can be reimbured with points.
 
 The points given to users can either be withdrawn for money or used to buy vessel brand compost or gear such as a compost bin to aid transportation, etc. This money comes from the revenue of the finished compost. With organic compost selling at nearly ten cents per pound, the vessel compost can will make enough money to incentivise each user to turn their trash into treasure.
-![image](https://user-images.githubusercontent.com/14077887/151709679-05a3893a-9736-44d3-94a8-3641f326a4c6.png)
 
 ## What is a vessel?
 A vessel is a drop off point for compost. A vessel is a modified old shipping container. This will save the container from landfill, while also offering a cheap and solid recepticle for the compost.
