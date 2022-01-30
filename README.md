@@ -2,11 +2,9 @@
 
 # Overview
 
-The rising emissions of greenhouse gasses has driven earth to an uncofortable state of climate change. Our new app **vessel** aims to use the power of composting to reduce greeenhouse gasses and put carbon back into the ground. About one forth of American waste is organic material that can be composted yet only eight percent of people use compost. Compost is the key to sustainable agriculture due to its properties with water retention, waste reduction, and soil health.
+The rising emissions of greenhouse gasses has driven earth to an uncofortable state of climate change. Our new app **vessel** aims empower users with localized composting to reduce greenhouse gasses and put carbon back into the ground. About one forth of American waste is organic material that can be composted yet only eight percent of people use compost. Many lack the resources to compost their scraps, setting up a personal pile takes time and effort and few cities have municipal compost collection. With the **vessel** app, users will be able to effortlessly make money from desposing their scraps responsibly. 
 
-Many lack the resources to compost their scraps, setting up a personal pile takes time and effort and few cities have municipal compost collection. With the vessel app, users will be able to effortlessly make money from desposing their scraps responsibly. 
-
-The landing page gives users the ability to drop their compost at one of vessel's drop-off locations. Each of the company's drop-off locations will consist of a recycled shipping container split into three different compartments for different stages in the composting process. When the user deposits their waste, an automated system will weight the scraps and then add it to the compost pile. The vessel will then scan an in-app QR code so the user can be reimbured with points.
+The landing page gives users the ability to drop their compost at one of **vessel's** drop-off locations. Each of the company's drop-off locations will consist of a recycled shipping container split into two compartments for different stages in the composting process. When the user deposits their waste, an automated system will weight the scraps and add it to the compost pile. The vessel will then scan an in-app QR code so the user can be reimbured with points.
 
 The points given to users can either be withdrawn for money or used to buy vessel brand compost or gear such as a compost bin to aid transportation, etc. This money comes from the revenue of the finished compost. With organic compost selling at nearly ten cents per pound, the vessel compost can will make enough money to incentivise each user to turn their trash into treasure.
 
@@ -53,20 +51,7 @@ We designed our web app/backend using flask. It uses a sqlite database. The main
 
 This allows the database to model most of the functionality, while also allowing more features to be added easily. 
 
-<p float="left">
-  <img src= "https://user-images.githubusercontent.com/77899192/151709980-4d9e0ee8-8971-4756-8858-af780dc13a25.png" width="200" />
-  <img src="https://user-images.githubusercontent.com/77899192/151710071-0b7eea4b-643b-429a-9b93-3acef97f96b5.png" width="200" /> 
-  <img src="/img3.png" width="100" />
-</p>
-
-
-<img width="373" alt="Screen Shot 2022-01-30 at 12 20 42 PM" src="https://user-images.githubusercontent.com/77899192/151710071-0b7eea4b-643b-429a-9b93-3acef97f96b5.png">
-
-<img width="373" alt="Screen Shot 2022-01-30 at 12 18 31 PM" src="https://user-images.githubusercontent.com/77899192/151710075-0f41ec86-a35f-457f-b32f-81012e9612a1.png">
-
-<img width="375" alt="Screen Shot 2022-01-30 at 12 18 57 PM" src="https://user-images.githubusercontent.com/77899192/151710077-f0503d71-a5fe-47b7-be69-5867d91a39ef.png">
-
-
+<img width="375" alt="Screen Shot 2022-01-30 at 12 14 19 PM" src="https://user-images.githubusercontent.com/77899192/151709815-d94fc692-3655-4702-8f7e-6e53af3a874a.png">
 
 
 ##### What needs to be added? 
