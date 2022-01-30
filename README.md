@@ -16,6 +16,6 @@ The points given to users can either be withdrawn for money or used to buy vesse
 
 # Acknowledgments
 
-Vessel was made by Reid Arwood, Andrew Boden, JR Buyers, and Ben Hayes. 
+Vessel was made by Reid Arwood, Andrew Boden, JR Byers, and Ben Hayes. 
 
 Thank you to HackAtBrown and their sponsors.
